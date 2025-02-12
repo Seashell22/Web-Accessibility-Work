@@ -1,4 +1,4 @@
-## Samples of my Web Accessibility Work.  Screenshots of the first pages.
+## Screenshots from some of my web accessibility.
 
 ### CML Manual Web Accessibility Testing for Buckeye Innovation
 

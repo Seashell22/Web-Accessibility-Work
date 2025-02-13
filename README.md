@@ -1,4 +1,4 @@
-## Examples of my web accessibility testing work.
+## Examples of my web accessibility testing work.  Displays just the first screens of each project.
 
 ### CML Manual Web Accessibility Testing for Buckeye Innovation
 
